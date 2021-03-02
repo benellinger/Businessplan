@@ -1,0 +1,41 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Businessplan 2019</title>
+    <link href="https://fonts.googleapis.com/css?family=Roboto:300" rel="stylesheet">
+    <link rel="stylesheet" type="text/css" href="style.css">
+</head>
+<body>
+    <div class="title">
+        <h1>BUSINESSPLAN 2019 - Team Service (Wüste Service)</h1>
+    </div>
+
+    <!-- adding several buttons -->
+    <div class="buttons">
+        <input class="button" type="button" value="Start" onclick="test(0);animation()"/>
+        <input class="button" type="button" value="Tickets" onclick="test(1),tickets()"/>
+        <input class="button" type="button" value="Verkäufe" onclick="test(2);sankey_run()"/>
+        <input class="button" type="button" value="Aufwände" onclick="test(3);sankey_run_auf()"/>
+        <input class="button" type="button" value="Projekte" onclick="test(4);plotProjects()"/>
+    </div>
+
+    <div class="SubTitle" id="folie">
+        <h2></h2>
+    </div>
+
+    <!-- adding functionality -->
+    <div id="chart"></div>
+
+    <script src="https://d3js.org/d3.v4.js"></script>
+    <script src="tickets/ticket.js"></script>
+    <script src="app.js"></script>
+	<script src="opening/animate.js"></script>
+    <script src="projekte/projects.js"></script>
+    <script src="verkauf/sankey.js"></script>
+    <script src="verkauf/sankey_run.js"></script>
+    <script src="aufwand/sankey_run_auf.js"></script>
+
+
+</body>
+</html>

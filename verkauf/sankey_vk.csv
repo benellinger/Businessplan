@@ -1,0 +1,39 @@
+source,target,value
+Arbeiter 3,Direct Deals,23229
+Team S&S,Service2Sales,33000
+Team S&S,Service2Sales,37700
+smallDeals,Team S&S,142700
+Service2Sales,Velamed GmbH,70700
+Direct Deals,Team S&S,111000
+Arbeiter 2,Direct Deals,995
+Arbeiter 2,Direct Deals,3815
+Arbeiter 2,Direct Deals,5401
+Arbeiter 2,Direct Deals,20700
+Arbeiter 2,Direct Deals,10110
+Arbeiter 2,Direct Deals,14695
+Arbeiter 2,Direct Deals,11885
+Arbeiter 2,Direct Deals,3550
+Arbeiter 2,Direct Deals,8675
+Arbeiter 2,Direct Deals,4584
+Arbeiter 2,Direct Deals,3295
+Team S&S,Velamed GmbH,253700
+smallDeals,[info] n Serviceverträge,44
+Accessories,smallDeals,37770
+Elektroden,smallDeals,46415
+Kameratausch,smallDeals,1280
+Leihgabe,smallDeals,3557
+Marker,smallDeals,7570
+Referenten,smallDeals,3750
+Software-Upgrade,smallDeals,4430
+Servicevertrag,smallDeals,24250
+Repair,smallDeals,18665
+Arbeiter 1,Accessories,37770
+Arbeiter 1,Elektroden,46415
+Arbeiter 1,Kameratausch,1280
+Arbeiter 1,Leihgabe,3557
+Arbeiter 1,Marker,7570
+Arbeiter 1,Referenten,3750
+Arbeiter 1,Software-Upgrade,4430
+Arbeiter 1,Servicevertrag,24250
+Arbeiter 1,Repair,18665
+Arbeiter 4,Team S&S,1

@@ -1,0 +1,51 @@
+source,target,value
+Team S&S,Tickets,34.8
+Team S&S,Tickets,21.3
+Team S&S,Tickets,12.6
+Team S&S,Tickets,36.1
+Tickets,Aktivierungscode,12.3
+Tickets,Bestellung-intern,1.9
+Tickets,Hardwaresupport,26.5
+Tickets,Inhaltlicher Support,6.0
+Tickets,In-House Support,1.2
+Tickets,Leihgabe,3.3
+Tickets,Repair,21.2
+Tickets,Rückgabe an Hersteller,0.2
+Tickets,Softwaresupport,27.4
+Arbeiter 2,Vertriebsprojekte,26.3
+Arbeiter 2,Kunden ohne Vertriebsprojekt,9.6
+Arbeiter 2,Pre-Sales/Verkaufsförderung,13.5
+Arbeiter 2,Velamed Projekte,1.0
+Arbeiter 2,After-Sales allg.,0.9
+Arbeiter 2,Service,25.5
+Arbeiter 2,Allg. Orga/Nicht projektbezogen,17.1
+Arbeiter 1,Vertriebsprojekte,9.5
+Arbeiter 1,Kunden ohne Vertriebsprojekt,22.9
+Arbeiter 1,Pre-Sales/Verkaufsförderung,5.5
+Arbeiter 1,Velamed Projekte,13.2
+Arbeiter 1,After-Sales allg.,0.3
+Arbeiter 1,Service,11.6
+Arbeiter 1,Allg. Orga/Nicht projektbezogen,36.9
+Arbeiter 3,Vertriebsprojekte,26.2
+Arbeiter 3,Kunden ohne Vertriebsprojekt,2.0
+Arbeiter 3,Pre-Sales/Verkaufsförderung,3.2
+Arbeiter 3,Velamed Projekte,12.3
+Arbeiter 3,Referenzkunden-Projekt,0.1
+Arbeiter 3,After-Sales allg.,1.9
+Arbeiter 3,Service,34.2
+Arbeiter 3,Allg. Orga/Nicht projektbezogen,18.5
+Arbeiter 4,Vertriebsprojekte,5.7
+Arbeiter 4,Velamed Projekte,24.2
+Arbeiter 4,Referenzkunden-Projekt,1.0
+Arbeiter 4,After-Sales allg.,0.6
+Arbeiter 4,Service,55.8
+Arbeiter 4,Allg. Orga/Nicht projektbezogen,12.8
+Vertriebsprojekte,Vertrieb,16.9
+Kunden ohne Vertriebsprojekt,Vertrieb,8.6
+Pre-Sales/Verkaufsförderung,Vertrieb,5.6
+Vertrieb,Team S&S,31.3
+Allg. Orga/Nicht projektbezogen,Team S&S,21.3
+After-Sales allg.,Team S&S,0.9
+Service,Team S&S,31.8
+Velamed Projekte,Team S&S,12.6
+Referenzkunden-Projekt,Team S&S,0.3
